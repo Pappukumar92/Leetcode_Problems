@@ -1,14 +1,18 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(),arr.end(),[](int a,int b)
+        auto lambda = [&](int &a,int &b)
         {
-            int bitsA = __builtin_popcount(a);
-            int bitsB = __builtin_popcount(b);
-            if(bitsA == bitsB)
-            return a<b;
-            return bitsA<bitsB;
-        });
+            int count_a =__builtin_popcount(a);
+            int count_b =__builtin_popcount(b);
+            if(count_a == count_b)
+            {
+                return a<b;
+            }
+            return count_a < count_b;
+        };
+        sort(arr.begin(),arr.end(),lambda);
         return arr;
     }
 };
+ 
