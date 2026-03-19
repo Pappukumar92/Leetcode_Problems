@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
