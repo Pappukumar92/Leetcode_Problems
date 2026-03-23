@@ -83,4 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 <!---LeetCode Topics End-->
