@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
