@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2751-robot-collisions](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0274-h-index](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0274-h-index/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
