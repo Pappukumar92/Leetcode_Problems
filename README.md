@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3174-clear-digits](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2751-robot-collisions](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3174-clear-digits](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [3174-clear-digits](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
