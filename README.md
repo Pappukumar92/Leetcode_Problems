@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0274-h-index/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -179,5 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
