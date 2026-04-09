@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0125-valid-palindrome](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
