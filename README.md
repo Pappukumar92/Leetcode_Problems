@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0031-next-permutation/) | Medium |
