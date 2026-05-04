@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
