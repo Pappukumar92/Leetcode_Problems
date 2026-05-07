@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0027-remove-element/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0290-word-pattern](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0290-word-pattern/) | Easy |
