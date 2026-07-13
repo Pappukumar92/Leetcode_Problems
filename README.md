@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0274-h-index/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
