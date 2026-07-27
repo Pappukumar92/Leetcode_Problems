@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
