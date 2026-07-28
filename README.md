@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3174-clear-digits/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2751-robot-collisions](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
