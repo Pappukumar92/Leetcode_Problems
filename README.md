@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0125-valid-palindrome](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0290-word-pattern](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0290-word-pattern/) | Easy |
