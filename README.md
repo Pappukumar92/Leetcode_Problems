@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0274-h-index/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0486-predict-the-winner](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0486-predict-the-winner](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
