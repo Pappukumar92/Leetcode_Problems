@@ -198,16 +198,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2608-shortest-cycle-in-a-graph/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2608-shortest-cycle-in-a-graph/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
