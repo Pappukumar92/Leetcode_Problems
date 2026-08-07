@@ -1,10 +1,23 @@
 class Solution {
-public:
-    int smallestNumber(int n, int t) {
-        for (int i = n; i <= n + 10; i++) {
-            int p = (i < 10) ? i : (i == 100 ? 0 : (i / 10) * (i % 10));
-            if (p % t == 0) return i;
+private:
+    int getDigitProduct(int num)
+    {
+        int product = 1;
+        while (num > 0) 
+        {
+            product *= (num % 10);
+            num /= 10;
         }
-        return n;
+        return product;
+    }
+public:
+    int smallestNumber(int n, int t) 
+    {
+        for (int i = n; ; i++) {
+            if (getDigitProduct(i) % t == 0) 
+            {
+                return i;
+            }
+        }
     }
 };
