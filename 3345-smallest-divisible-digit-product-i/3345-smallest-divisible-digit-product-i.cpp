@@ -1,20 +1,15 @@
 class Solution {
-private:
-    int getDigitProduct(int num)
-    {
-        int product = 1;
-        while (num > 0) 
-        {
-            product *= (num % 10);
-            num /= 10;
-        }
-        return product;
-    }
 public:
-    int smallestNumber(int n, int t) 
+    int smallestNumber(int n, int t)
     {
-        for (int i = n; ; i++) {
-            if (getDigitProduct(i) % t == 0) 
+        for (int i = n; ; i++) 
+        {
+            int product = 1;
+            string s = to_string(i);
+            for (char c : s) {
+                product *= (c - '0');
+            }
+            if (product % t == 0) 
             {
                 return i;
             }
