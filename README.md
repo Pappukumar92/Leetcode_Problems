@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
