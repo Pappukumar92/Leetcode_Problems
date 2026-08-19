@@ -1,18 +1,21 @@
+int isDiv(int n, int t){
+    int product = 1;
+    while(n > 0){
+        product *= n % 10;
+        n /= 10;
+    }
+
+    if(product % t == 0) return true;
+    return false;
+}
+
 class Solution {
 public:
-    int smallestNumber(int n, int t)
-    {
-        for (int i = n; ; i++) 
-        {
-            int product = 1;
-            string s = to_string(i);
-            for (char c : s) {
-                product *= (c - '0');
-            }
-            if (product % t == 0) 
-            {
-                return i;
-            }
+    int smallestNumber(int n, int t) {
+        for( ; ; n++){
+            if(isDiv(n, t))
+                return n;
         }
+        return 0;
     }
 };
