@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3731-find-missing-elements](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3731-find-missing-elements](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
