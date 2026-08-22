@@ -1,14 +1,14 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        int temp = n;
+        string numStr = to_string(n);
+        
         long long sum = 0;
         long long product = 1;
-        while (temp > 0) {
-            int digit = temp % 10;
+                for (char c : numStr) {
+            int digit = c - '0';
             sum += digit;
             product *= digit;
-            temp /= 10;
         }
         return n % (sum + product) == 0;
     }
