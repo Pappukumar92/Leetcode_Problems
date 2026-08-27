@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
