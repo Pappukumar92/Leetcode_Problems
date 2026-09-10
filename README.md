@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
