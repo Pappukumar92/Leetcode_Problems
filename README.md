@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1927-sum-game](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
