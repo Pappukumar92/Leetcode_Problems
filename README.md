@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 ## Sliding Window
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pappukumar92/SQL-50-Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
